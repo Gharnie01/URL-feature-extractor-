@@ -1,6 +1,13 @@
 # URL-feature-extractor
 A malleable python script for URL feature extraction for machine learning and deep learning research and projects.
 
+<img width="1856" height="789" alt="image" src="https://github.com/user-attachments/assets/c0185c30-a868-457b-bde2-615dd316f656" />
+
+Resume from an unfinished extraction
+
+<img width="1689" height="440" alt="image" src="https://github.com/user-attachments/assets/42350178-aa52-4d26-bfd5-90f0e64c76d5" />
+
+
 help:
         python feature_extractor.py [-h]
 output:
